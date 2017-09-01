@@ -18,3 +18,6 @@ to push to the master branch on github.
 Then I created a branch called test and made changes,
 merged the information on both branches together, and added,
 commited, and pushed the information to github again.
+
+
+https://github.com/bchang1213/basic_repo.git
