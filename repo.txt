@@ -1,1 +1,20 @@
 writing 1
+
+
+Created a repository named basic_repo and pushed it to
+a similarly named repo on Github.
+
+Called git init on the local repo, created a file, added data
+and then called:
+
+git add -A
+
+git commit -m "message"
+
+git push -u origin master
+
+to push to the master branch on github.
+
+Then I created a branch called test and made changes,
+merged the information on both branches together, and added,
+commited, and pushed the information to github again.
